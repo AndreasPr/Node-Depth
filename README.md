@@ -1,3 +1,3 @@
-# Node-Depth
+# Node Depth
 
 Implementation in Java
